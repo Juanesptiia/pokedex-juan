@@ -59,8 +59,17 @@ Con el repositorio ya en GitHub, seguí estos pasos en [Vercel](https://vercel.c
 ## 4. Resultado
 
 La aplicación fue desplegada exitosamente. Vercel me proporcionó un enlace público para acceder a la aplicación Angular desde cualquier dispositivo.
+[proyecto-pokedex-juan.vercel.app](https://proyecto-pokedex-juan.vercel.app/)
 
 > 🚀 ¡Proyecto desplegado con éxito usando Vercel!
 
+
+## Mi repositorio de Git Hub
+
+https://github.com/Juanesptiia
+
+https://github.com/Juanesptiia/Proyecto-pokedex-juan
+
+https://github.com/Juanesptiia/pokedex-juan
 
 
