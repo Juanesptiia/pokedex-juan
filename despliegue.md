@@ -1,3 +1,8 @@
+# Despliegue del proyecto en Vercel
+
+A continuación, se describe cómo realicé el despliegue de mi aplicación **Angular** en la plataforma [Vercel](https://vercel.com).
+
+
 ## 1. Preparación del proyecto Angular
 
 Primero me aseguré de tener el proyecto funcionando correctamente de manera local. Para ello, ejecuté los siguientes comandos:
@@ -21,13 +26,18 @@ Esto creó la carpeta `dist/`, que contiene los archivos necesarios para el desp
 Inicialicé un repositorio Git en mi proyecto y lo subí a GitHub con los siguientes comandos:
 
 
-``
+`
 git init
+
 git add .
+
 git commit -m "primer commit"
+
 git branch -M main
+
 git remote add origin https://github.com/Juanesptiia/Proyecto-pokedex-juan.git
-git push -u origin main
+
+git push -u origin main`
 
 
 ## 3. Despliegue en Vercel
@@ -51,3 +61,6 @@ Con el repositorio ya en GitHub, seguí estos pasos en [Vercel](https://vercel.c
 La aplicación fue desplegada exitosamente. Vercel me proporcionó un enlace público para acceder a la aplicación Angular desde cualquier dispositivo.
 
 > 🚀 ¡Proyecto desplegado con éxito usando Vercel!
+
+
+
